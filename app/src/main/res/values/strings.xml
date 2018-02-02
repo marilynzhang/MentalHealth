@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MentalHealth</string>
+    <string name="title_activity_enter_info">EnterInfo</string>
+    <string name="title_activity_display_info">DisplayInfo</string>
+</resources>
